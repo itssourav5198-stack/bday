@@ -30,7 +30,7 @@ export const DEFAULT_GIFTS: GiftItem[] = [
       subheadline: "Remember this day?",
       date: "When it all began",
       location: "Where our paths crossed",
-      image: "/images/01.png",
+      image: "/images/Gemini_Generated_Image_ayqugeayqugeayqu.png",
       message: "Apko yaad hai hamne sabse pehli baar baat kab ki?  Usdin sirf hamne baat hi nhi ki hmare beech ek connection bna rhe the. Aapke aane se meri wo khoyi huyi dhadkane waps aa gyi kyuki mai agr dil hu to uski dhadkan to aap ho n.",
       specialNote: "“Some people make the world more special just by being in it. You are that person for me.”"
     }
