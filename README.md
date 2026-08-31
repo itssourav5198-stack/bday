@@ -1,20 +1,23 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Meri Chhoti Si Mela ❤️
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/163b2a1d-dfff-4c03-bbc3-3502c6fc6a3d
+An interactive 2D romantic carnival ring-toss game and personal birthday surprise, built with React + Vite.
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
-
+**Prerequisites:** Node.js (v18+)
 
 1. Install dependencies:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
+2. Start the dev server:
    `npm run dev`
+3. Open the app at `http://localhost:3000`
+
+## Build for Production
+
+`npm run build`
+
+The production-ready files will be generated in the `dist/` folder, which you can deploy to any static hosting service (Vercel, Netlify, GitHub Pages, etc.).
+
+## Customizing
+
+Open the app and tap the settings (gear) icon to personalize names, gift messages, and photos — either by uploading from your device or pasting an image URL — directly from the UI.
