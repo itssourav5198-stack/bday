@@ -30,8 +30,8 @@ export const DEFAULT_GIFTS: GiftItem[] = [
       subheadline: "Remember this day?",
       date: "When it all began",
       location: "Where our paths crossed",
-      image: "https://images.unsplash.com/photo-1518199266791-5375a83190b7?q=80&w=1200&auto=format&fit=crop",
-      message: "Do you remember the very first time we spoke? I never told you back then, but my heart skipped a beat. You brought a sudden burst of warmth into my life that has only grown brighter every single day since.",
+      image: /images/01.png,
+      message: "Apko yaad hai hamne sabse pehli baar baat kab ki?  Usdin sirf hamne baat hi nhi ki hmare beech ek connection bna rhe the. Aapke aane se meri wo khoyi huyi dhadkane waps aa gyi kyuki mai agr dil hu to uski dhadkan to aap ho n.",
       specialNote: "“Some people make the world more special just by being in it. You are that person for me.”"
     }
   },
@@ -59,7 +59,7 @@ export const DEFAULT_GIFTS: GiftItem[] = [
     content: {
       headline: "I LOVE YOU ❤️",
       subheadline: "Always, unconditionally, completely.",
-      message: "You are the most precious person in my world. Your smile is my favorite view, your laugh is the soundtrack of my happiest days, and holding your hand makes every worry disappear.\n\nThank you for choosing me every day. Thank you for being my safe space, my biggest cheerleader, and my favorite adventure.",
+      message: "You are the most precious person in my world. Aapki smile aur chehra dekhke dil ko sukoon milta hai, apki aawaj sunke kaan aur dil ko raahat milti h. Thank you for choosing me every day. Thank you for being my safe space, my biggest cheerleader, and my favorite adventure.",
       specialNote: "1 universe • 8 billion people • and I still found my favorite one in you."
     }
   },
@@ -89,17 +89,17 @@ export const DEFAULT_GIFTS: GiftItem[] = [
       subheadline: "Swipe or tap through our journey",
       images: [
         {
-          url: "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?q=80&w=1200&auto=format&fit=crop",
+          url: /images/03_01,
           caption: "Our endless conversations where hours feel like minutes.",
           date: "Favorite Coffee Walks"
         },
         {
-          url: "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?q=80&w=1200&auto=format&fit=crop",
+          url: /images/03_02,
           caption: "That silly laughing fit over inside jokes no one else would understand.",
           date: "Unstoppable Giggles"
         },
         {
-          url: "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?q=80&w=1200&auto=format&fit=crop",
+          url: "/images/03_03",
           caption: "Every quiet sunset, knowing I want to watch all of them with you.",
           date: "Golden Hours Together"
         }
@@ -130,10 +130,10 @@ export const DEFAULT_GIFTS: GiftItem[] = [
     content: {
       headline: "The Things I Adore About You ✨",
       subheadline: "Do you know what makes you so irreplaceable?",
-      image: "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?q=80&w=1200&auto=format&fit=crop",
+      image: /images/04,
       date: "Every single day",
       location: "Right here with you",
-      message: "The way you excitedly tell a story with your hands. How caring you are even when you're tired. The way you look at me when you think I'm not noticing. Your kindness, your gentle heart, and the warmth you give to everyone around you.",
+      message: "Apka yu saare baat btana, Apka yu mujhe care karna bacho ki trh, apka yu mereko datna, apka yu mujhe smjhana. I love everything jo apne diya mujhe. I LOVE YOU MERI SHONAAAA",
       specialNote: "“You don't have to do anything extraordinary to be loved. Just being you is more than enough.”"
     }
   },
@@ -161,9 +161,9 @@ export const DEFAULT_GIFTS: GiftItem[] = [
     content: {
       headline: "To The Queen Of My Heart 👑",
       subheadline: "You deserve every ounce of magic in this universe.",
-      image: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=1200&auto=format&fit=crop",
-      message: "I hope you know how deeply appreciated you are. May your year ahead be as radiant, joyful, and full of sweet surprises as you have made my life. Whatever your dreams are, I will always be right beside you cheering the loudest.",
-      specialNote: "May all your wishes turn into reality today and forever."
+      image: /images/05,
+      message: "Mai babyyy apke sath hmesha tha hu aur rhunga chahe life ki kitti bhi tough phase ho y fr apki jo bhi ichha ho mai apke sath aur apke liye hmesha rhunga.",
+      specialNote: "Meri raani ki khwaish aur iccha mere sar aankho par."
     }
   },
   {
@@ -189,13 +189,13 @@ export const DEFAULT_GIFTS: GiftItem[] = [
     hitRadius: 13,
     content: {
       headline: "My Dearest Love 💌",
-      subheadline: "A letter from the bottom of my heart",
+      subheadline: "EK LETTER LIKHA H DIL SE",
       letterBody: [
         "Meri jaan,",
-        "If someone asked me to describe my happiest place, I wouldn't name a city or a mountain. I would describe the feeling of sitting next to you, hearing you laugh, and knowing we have each other.",
-        "Life can get busy and days can fly past in a blur, but with you, every ordinary moment turns into a cherished memory. In your eyes, I found my home. In your heart, I found my peace.",
+        "Koi mujhse puchta h ki tujhe kya psnd h sabse jyada to mera jwab aap ho, Aur agr koi puche ki tumhe konsa jgh jyada psnd h to mera jwab hota h ki meri shonaaa k dil m.",
+        "Life m chahe mere kitte hi tough phase kyu n chl rhe ho, kitte hi mushkile n chl rhi ho prrr ek chiz h jo mujhe har vkt chahiye aap aur apka sath shonaaaa.",
         "Thank you for being my anchor, my sweetest distraction, and my greatest blessing. I promise to keep making you smile, to stand with you through every high and low, and to love you more with every passing heartbeat.",
-        "Happy Birthday, my beautiful girl. Today is a celebration of the day the world was blessed with you."
+        "Happy Birthday, my beautiful wifeee. Aaj apka din hai."
       ],
       signature: "Forever & Always Yours ❤️"
     }
@@ -224,11 +224,11 @@ export const DEFAULT_GIFTS: GiftItem[] = [
     content: {
       headline: "HAPPY BIRTHDAY, MY LOVE! 🎂🎉",
       subheadline: "“Aaj tumhare liye ek chhota sa mela lagaya tha…”",
-      message: "And you won every single gift! But the greatest prize has always been having you in my life. You light up every room you walk into, you make tough days soft, and you make happy days unforgettable.",
+      message: "And you won every single gift! But life ki sabse badi gift to mujhe mili h aaj k din. Bhagwan n meri shonaaa ko bheja mere liye.",
       birthdayWishes: [
-        "🌟 May you achieve every single goal and dream you hold close to your heart.",
-        "🌸 May your smile never lose its sparkle, and may laughter follow you everywhere.",
-        "💖 May you always know how unconditionally and deeply you are cherished.",
+        "🌟 Apko wo saari chize mile jo apko chahiyeeee ",
+        "🌸 Aap aisi hi haste rha kroo, pyaari lagti ho ",
+        "💖 Apka babuuu hmesha apke sath tha hai aur hmesha rhegaaa ",
         "🎂 And may our love grow sweeter, stronger, and more adventurous with every passing year."
       ],
       specialNote: "“You were always the real gift. ❤️ Happy Birthday!”"
