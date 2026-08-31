@@ -1,0 +1,6 @@
+{
+  "name": "Meri Chhoti Si Mela ❤️",
+  "description": "An interactive 2D romantic carnival ring-toss game and personal birthday surprise.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
