@@ -30,7 +30,7 @@ export const DEFAULT_GIFTS: GiftItem[] = [
       subheadline: "Remember this day?",
       date: "When it all began",
       location: "Where our paths crossed",
-      image: /images/01.png,
+      image: "/images/01.png",
       message: "Apko yaad hai hamne sabse pehli baar baat kab ki?  Usdin sirf hamne baat hi nhi ki hmare beech ek connection bna rhe the. Aapke aane se meri wo khoyi huyi dhadkane waps aa gyi kyuki mai agr dil hu to uski dhadkan to aap ho n.",
       specialNote: "“Some people make the world more special just by being in it. You are that person for me.”"
     }
@@ -89,17 +89,17 @@ export const DEFAULT_GIFTS: GiftItem[] = [
       subheadline: "Swipe or tap through our journey",
       images: [
         {
-          url: /images/03_01,
+          url: "/images/03_01.png",
           caption: "Our endless conversations where hours feel like minutes.",
           date: "Favorite Coffee Walks"
         },
         {
-          url: /images/03_02,
+          url: "/images/03_02.png",
           caption: "That silly laughing fit over inside jokes no one else would understand.",
           date: "Unstoppable Giggles"
         },
         {
-          url: "/images/03_03",
+          url: "/images/03_03.png",
           caption: "Every quiet sunset, knowing I want to watch all of them with you.",
           date: "Golden Hours Together"
         }
@@ -130,7 +130,7 @@ export const DEFAULT_GIFTS: GiftItem[] = [
     content: {
       headline: "The Things I Adore About You ✨",
       subheadline: "Do you know what makes you so irreplaceable?",
-      image: /images/04,
+      image: "/images/04.png",
       date: "Every single day",
       location: "Right here with you",
       message: "Apka yu saare baat btana, Apka yu mujhe care karna bacho ki trh, apka yu mereko datna, apka yu mujhe smjhana. I love everything jo apne diya mujhe. I LOVE YOU MERI SHONAAAA",
@@ -161,7 +161,7 @@ export const DEFAULT_GIFTS: GiftItem[] = [
     content: {
       headline: "To The Queen Of My Heart 👑",
       subheadline: "You deserve every ounce of magic in this universe.",
-      image: /images/05,
+      image: "/images/05.png",
       message: "Mai babyyy apke sath hmesha tha hu aur rhunga chahe life ki kitti bhi tough phase ho y fr apki jo bhi ichha ho mai apke sath aur apke liye hmesha rhunga.",
       specialNote: "Meri raani ki khwaish aur iccha mere sar aankho par."
     }
