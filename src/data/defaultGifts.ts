@@ -90,18 +90,18 @@ export const DEFAULT_GIFTS: GiftItem[] = [
       images: [
         {
           url: "/images/03_01.png",
-          caption: "Our endless conversations where hours feel like minutes.",
-          date: "Favorite Coffee Walks"
+          caption: "Apka ye pyaara chehra",
+          date: "Cutu face"
         },
         {
-          url: "/images/03_02.png",
-          caption: "That silly laughing fit over inside jokes no one else would understand.",
+          url: "/images/03_02.jpeg",
+          caption: "Subh subh apki wo pyaari si aawaj sunna",
           date: "Unstoppable Giggles"
         },
         {
           url: "/images/03_03.png",
-          caption: "Every quiet sunset, knowing I want to watch all of them with you.",
-          date: "Golden Hours Together"
+          caption: "Apko yu saare m dekhna mujhe dewaana bna deta hai ",
+          date: "Golden Hours "
         }
       ]
     }
