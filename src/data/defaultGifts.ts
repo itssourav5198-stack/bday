@@ -161,7 +161,7 @@ export const DEFAULT_GIFTS: GiftItem[] = [
     content: {
       headline: "To The Queen Of My Heart 👑",
       subheadline: "You deserve every ounce of magic in this universe.",
-      image: "/images/05.png",
+      image: "/images/ChatGPT Image Jun 27, 2026, 08_29_14 PM.png",
       message: "Mai babyyy apke sath hmesha tha hu aur rhunga chahe life ki kitti bhi tough phase ho y fr apki jo bhi ichha ho mai apke sath aur apke liye hmesha rhunga.",
       specialNote: "Meri raani ki khwaish aur iccha mere sar aankho par."
     }
